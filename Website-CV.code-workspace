@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"path": "Website-CV"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cctype": "cpp",
+			"cerrno": "cpp",
+			"cfloat": "cpp",
+			"climits": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"numeric": "cpp",
+			"ranges": "cpp",
+			"tuple": "cpp",
+			"string": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp",
+			"AMBILIGHT.C": "cpp",
+			"*.tcc": "cpp",
+			"sstream": "cpp"
+		}
+	}
+}
